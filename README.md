@@ -1,4 +1,4 @@
-# Tasfiya-Learning
+# Tasfiya-Salesforce-Learning
 
 # 30-Day Salesforce Developer Learning & Practice Schedule
 
